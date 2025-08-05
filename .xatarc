@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://rxcvrdo-s-workspace-qdjv7f.eu-west-1.xata.sh/db/Empwr_video-share",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
